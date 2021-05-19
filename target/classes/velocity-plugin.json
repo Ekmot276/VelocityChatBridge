@@ -1,0 +1,1 @@
+{"id":"velocitychatbridge","name":"VelocityChatBridge","version":"0.1.0-SNAPSHOT","description":"Simple plugin to parse messages to all servers under a velocity proxy","url":"https://www.ekmot276.io","authors":["Ekmot276"],"dependencies":[],"main":"io.ekmot276.VelocityChatBridge"}
